@@ -1,8 +1,3 @@
-好，这里我给你一份**干净、专业、偏研究/教学用途的 README**，完全贴合你现在这段代码和你正在学的内容（MLE + log-likelihood）。
-你可以直接放在 GitHub 仓库里用。
-
----
-
 # Maximum Likelihood Estimation for a Biased Coin (Python)
 
 ## 📌 Project Overview
